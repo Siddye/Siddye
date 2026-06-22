@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Sakura Banner" />
 </div>
 
-<h1 align="center">🌸 Konnichiwa, I'm Sid! 🌸</h1>
+<h1 align="center"> I'm Sidyco! </h1>
 <p align="center">
   <i>"Software Engineer | Game Developer | Storyteller"</i>
 </p>
